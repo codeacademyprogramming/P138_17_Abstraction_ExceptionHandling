@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kC2duOpOuS7fLMuPqlLZLw6GzCMqkUVTxksK2dTDT3sKsnwTFLC0gKRrvgR62Gj9QIPvAJIhKXzzmLGT7KUcjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\18. 13-02-2023\\13022023\\ExceptionHandling\\ExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
